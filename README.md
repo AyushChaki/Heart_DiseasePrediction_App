@@ -1,1 +1,1 @@
-# Heart_DiseasePrediction_App
+# AYUSH_ML
